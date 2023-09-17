@@ -681,9 +681,14 @@
       "description": "Get 1 unique from Giants' Foundry"
     },
     {
-      "id": 135,
+      "id": 136,
       "itemID": 28136,
       "description": "Get 1 unique from Forestry"
+    },
+    {
+      "id": 137,
+      "itemID": 28585,
+      "description": "Get a Warped sceptre"
     }
   ],
   "medium": [
