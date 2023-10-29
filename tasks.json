@@ -686,6 +686,11 @@
       "description": "Get 1 unique from Forestry"
     },
     {
+      "id": 138,
+      "itemID": 28620,
+      "description": "Get the full Pheasant costume"
+    },
+    {
       "id": 137,
       "itemID": 28585,
       "description": "Get a Warped sceptre"
@@ -1489,6 +1494,21 @@
     },
     {
       "id": 159,
+      "itemID": 28136,
+      "description": "Get 1 unique from Forestry"
+    },
+    {
+      "id": 160,
+      "itemID": 28136,
+      "description": "Get 1 unique from Forestry"
+    },
+    {
+      "id": 161,
+      "itemID": 28136,
+      "description": "Get 1 unique from Forestry"
+    },
+    {
+      "id": 162,
       "itemID": 28136,
       "description": "Get 1 unique from Forestry"
     }
@@ -2413,6 +2433,16 @@
       "id": 183,
       "itemID": 28136,
       "description": "Get 1 unique from Forestry"
+    },
+    {
+      "id": 184,
+      "itemID": 28136,
+      "description": "Get 1 unique from Forestry"
+    },
+    {
+      "id": 185,
+      "itemID": 28136,
+      "description": "Get 1 unique from Forestry"
     }
   ],
   "elite": [
@@ -3253,6 +3283,11 @@
     },
     {
       "id": 167,
+      "itemID": 28136,
+      "description": "Get 1 unique from Forestry"
+    },
+    {
+      "id": 179,
       "itemID": 28136,
       "description": "Get 1 unique from Forestry"
     },
