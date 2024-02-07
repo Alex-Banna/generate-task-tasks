@@ -1516,6 +1516,11 @@
       "id": 162,
       "itemID": 28136,
       "description": "Get 1 unique from Forestry"
+    },
+    {
+      "id": 163,
+      "itemID": 28798,
+      "description": "Get a Scurrius' spine"
     }
   ],
   "hard": [
