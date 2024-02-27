@@ -1521,6 +1521,11 @@
       "id": 163,
       "itemID": 28798,
       "description": "Get a Scurrius' spine"
+    },
+    {
+      "id": 164,
+      "itemID": 28813,
+      "description": "Get a Broken zombie axe"
     }
   ],
   "hard": [
