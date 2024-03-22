@@ -3447,17 +3447,17 @@
       "description": "Get 1 unique from the DT2 bosses"
     },
     {
-      "id": 179,
-      "itemID": 28997,
-      "description": "Get 1 unique from Moons of Peril"
-    },
-    {
       "id": 180,
       "itemID": 28997,
       "description": "Get 1 unique from Moons of Peril"
     },
     {
       "id": 181,
+      "itemID": 28997,
+      "description": "Get 1 unique from Moons of Peril"
+    },
+    {
+      "id": 182,
       "itemID": 28997,
       "description": "Get 1 unique from Moons of Peril"
     }
