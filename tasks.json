@@ -687,13 +687,28 @@
     },
     {
       "id": 138,
-      "itemID": 28620,
-      "description": "Get the full Pheasant costume"
+      "itemID": 28136,
+      "description": "Get 1 unique from Forestry"
     },
     {
       "id": 139,
-      "itemID": 28674,
-      "description": "Get the Sturdy beehive parts"
+      "itemID": 28136,
+      "description": "Get 1 unique from Forestry"
+    },
+    {
+      "id": 142,
+      "itemID": 28136,
+      "description": "Get 1 unique from Forestry"
+    },
+    {
+      "id": 143,
+      "itemID": 28136,
+      "description": "Get 1 unique from Forestry"
+    },
+    {
+      "id": 144,
+      "itemID": 28136,
+      "description": "Get 1 unique from Forestry"
     },
     {
       "id": 137,
@@ -3460,6 +3475,11 @@
       "id": 182,
       "itemID": 28997,
       "description": "Get 1 unique from Moons of Peril"
+    },
+    {
+      "id": 183,
+      "itemID": 29455,
+      "description": "Get a Teleport anchoring scroll"
     }
   ],
   "master": [
