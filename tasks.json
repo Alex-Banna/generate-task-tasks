@@ -3480,6 +3480,21 @@
       "id": 183,
       "itemID": 29455,
       "description": "Get a Teleport anchoring scroll"
+    },
+    {
+      "id": 184,
+      "itemID": 28947,
+      "description": "1 Fortis Colosseum unique"
+    },
+    {
+      "id": 185,
+      "itemID": 28947,
+      "description": "1 Fortis Colosseum unique"
+    },
+    {
+      "id": 186,
+      "itemID": 28947,
+      "description": "1 Fortis Colosseum unique"
     }
   ],
   "master": [
@@ -4205,11 +4220,6 @@
     },
     {
       "id": 144,
-      "itemID": 28947,
-      "description": "1 Fortis Colosseum unique"
-    },
-    {
-      "id": 145,
       "itemID": 28947,
       "description": "1 Fortis Colosseum unique"
     },
