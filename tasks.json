@@ -2558,6 +2558,11 @@
       "id": 195,
       "itemID": 28924,
       "description": "Obtain Sunfire splinters"
+    },
+    {
+      "id": 196,
+      "itemID": 29580,
+      "description": "Get 1 unique from Tormented Demons"
     }
   ],
   "elite": [
@@ -3495,6 +3500,11 @@
       "id": 186,
       "itemID": 28947,
       "description": "1 Fortis Colosseum unique"
+    },
+    {
+      "id": 187,
+      "itemID": 29580,
+      "description": "Get 1 unique from Tormented Demons"
     }
   ],
   "master": [
