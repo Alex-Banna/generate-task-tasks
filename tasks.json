@@ -2568,6 +2568,21 @@
       "id": 197,
       "itemID": 29580,
       "description": "Get 1 unique from Tormented Demons"
+    },
+    {
+      "id": 198,
+      "itemID": 29799,
+      "description": "Get 1 unique from Araxxytes/Araxxor"
+    },
+    {
+      "id": 199,
+      "itemID": 29799,
+      "description": "Get 1 unique from Araxxytes/Araxxor"
+    },
+    {
+      "id": 200,
+      "itemID": 29799,
+      "description": "Get 1 unique from Araxxytes/Araxxor"
     }
   ],
   "elite": [
@@ -3510,6 +3525,36 @@
       "id": 187,
       "itemID": 29580,
       "description": "Get 1 unique from Tormented Demons"
+    },
+    {
+      "id": 188,
+      "itemID": 29799,
+      "description": "Get 1 unique from Araxxytes/Araxxor"
+    },
+    {
+      "id": 189,
+      "itemID": 29799,
+      "description": "Get 1 unique from Araxxytes/Araxxor"
+    },
+    {
+      "id": 190,
+      "itemID": 29799,
+      "description": "Get 1 unique from Araxxytes/Araxxor"
+    },
+    {
+      "id": 191,
+      "itemID": 29799,
+      "description": "Get 1 unique from Araxxytes/Araxxor"
+    },
+    {
+      "id": 192,
+      "itemID": 29799,
+      "description": "Get 1 unique from Araxxytes/Araxxor"
+    },
+    {
+      "id": 193,
+      "itemID": 29799,
+      "description": "Get 1 unique from Araxxytes/Araxxor"
     }
   ],
   "master": [
