@@ -3844,6 +3844,11 @@
       "description": "1 Boss pet or jar"
     },
     {
+      "id": 148,
+      "itemID": 13262,
+      "description": "1 Boss pet or jar"
+    },
+    {
       "id": 66,
       "itemID": 20663,
       "description": "1 Skilling pet"
