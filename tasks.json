@@ -724,6 +724,11 @@
       "id": 141,
       "itemID": 29084,
       "description": "Get the Sulphur blades"
+    },
+    {
+      "id": 142,
+      "itemID": 30040,
+      "description": "Get a Colossal wyrm teleport scroll"
     }
   ],
   "medium": [
@@ -1576,6 +1581,41 @@
       "id": 169,
       "itemID": 29265,
       "description": "Get 1 unique from the Hunter Guild"
+    },
+    {
+      "id": 170,
+      "itemID": 30042,
+      "description": "Get a Calcified acorn"
+    },
+    {
+      "id": 171,
+      "itemID": 29978,
+      "description": "Get 1 Alchemist outfit piece"
+    },
+    {
+      "id": 172,
+      "itemID": 29978,
+      "description": "Get 1 Alchemist outfit piece"
+    },
+    {
+      "id": 173,
+      "itemID": 29978,
+      "description": "Get 1 Alchemist outfit piece"
+    },
+    {
+      "id": 174,
+      "itemID": 29889,
+      "description": "Get 1 unique from Amoxliatl"
+    },
+    {
+      "id": 175,
+      "itemID": 29889,
+      "description": "Get 1 unique from Amoxliatl"
+    },
+    {
+      "id": 176,
+      "itemID": 29889,
+      "description": "Get 1 unique from Amoxliatl"
     }
   ],
   "hard": [
@@ -2381,8 +2421,13 @@
     },
     {
       "id": 160,
-      "itemID": 21067,
-      "description": "Get the Brimhaven graceful set recolour"
+      "itemID": 30044,
+      "description": "Get a Wyrm/Brimhaven graceful recolor"
+    },
+    {
+      "id": 201,
+      "itemID": 30044,
+      "description": "Get a Wyrm/Brimhaven graceful recolor"
     },
     {
       "id": 161,
@@ -2583,6 +2628,31 @@
       "id": 200,
       "itemID": 29799,
       "description": "Get 1 unique from Araxytes/Araxxor"
+    },
+    {
+      "id": 202,
+      "itemID": 29974,
+      "description": "Get the Prescription goggles"
+    },
+    {
+      "id": 203,
+      "itemID": 29988,
+      "description": "Get the Alchemist's amulet"
+    },
+    {
+      "id": 204,
+      "itemID": 30070,
+      "description": "Get 1 unique from the Hueycoatl"
+    },
+    {
+      "id": 205,
+      "itemID": 30070,
+      "description": "Get 1 unique from the Hueycoatl"
+    },
+    {
+      "id": 206,
+      "itemID": 30070,
+      "description": "Get 1 unique from the Hueycoatl"
     }
   ],
   "elite": [
@@ -3555,6 +3625,26 @@
       "id": 193,
       "itemID": 29799,
       "description": "Get 1 unique from Araxytes/Araxxor"
+    },
+    {
+      "id": 194,
+      "itemID": 30002,
+      "description": "Get a Chugging barrel"
+    },
+    {
+      "id": 195,
+      "itemID": 29996,
+      "description": "Get a Reagent pouch"
+    },
+    {
+      "id": 196,
+      "itemID": 30070,
+      "description": "Get 1 unique from the Hueycoatl"
+    },
+    {
+      "id": 197,
+      "itemID": 30070,
+      "description": "Get 1 unique from the Hueycoatl"
     }
   ],
   "master": [
@@ -3890,6 +3980,11 @@
     },
     {
       "id": 148,
+      "itemID": 13262,
+      "description": "1 Boss pet or jar"
+    },
+    {
+      "id": 149,
       "itemID": 13262,
       "description": "1 Boss pet or jar"
     },
