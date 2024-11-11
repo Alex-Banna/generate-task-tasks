@@ -1555,7 +1555,12 @@
     {
       "id": 164,
       "itemID": 28813,
-      "description": "Get a Broken zombie axe"
+      "description": "Get 1 Unique from Armoured zombies"
+    },
+    {
+      "id": 177,
+      "itemID": 28813,
+      "description": "Get 1 Unique from Armoured zombies"
     },
     {
       "id": 165,
