@@ -1621,6 +1621,26 @@
       "id": 176,
       "itemID": 29889,
       "description": "Get 1 unique from Amoxliatl"
+    },
+    {
+      "id": 178,
+      "itemID": 30634,
+      "description": "Get 1 unique from Royal Titans"
+    },
+    {
+      "id": 179,
+      "itemID": 30634,
+      "description": "Get 1 unique from Royal Titans"
+    },
+    {
+      "id": 180,
+      "itemID": 30634,
+      "description": "Get 1 unique from Royal Titans"
+    },
+    {
+      "id": 181,
+      "itemID": 30634,
+      "description": "Get 1 unique from Royal Titans"
     }
   ],
   "hard": [
@@ -2658,6 +2678,16 @@
       "id": 206,
       "itemID": 30070,
       "description": "Get 1 unique from the Hueycoatl"
+    },
+    {
+      "id": 207,
+      "itemID": 30634,
+      "description": "Get 1 unique from Royal Titans"
+    },
+    {
+      "id": 208,
+      "itemID": 30634,
+      "description": "Get 1 unique from Royal Titans"
     }
   ],
   "elite": [
