@@ -3675,6 +3675,41 @@
       "id": 197,
       "itemID": 30070,
       "description": "Get 1 unique from the Hueycoatl"
+    },
+    {
+      "id": 198,
+      "itemID": 30753,
+      "description": "Get 1 unique from Yama"
+    },
+    {
+      "id": 199,
+      "itemID": 30753,
+      "description": "Get 1 unique from Yama"
+    },
+    {
+      "id": 200,
+      "itemID": 30753,
+      "description": "Get 1 unique from Yama"
+    },
+    {
+      "id": 201,
+      "itemID": 30753,
+      "description": "Get 1 unique from Yama"
+    },
+    {
+      "id": 202,
+      "itemID": 30753,
+      "description": "Get 1 unique from Yama"
+    },
+    {
+      "id": 203,
+      "itemID": 30753,
+      "description": "Get 1 unique from Yama"
+    },
+    {
+      "id": 204,
+      "itemID": 30753,
+      "description": "Get 1 unique from Yama"
     }
   ],
   "master": [
@@ -4342,6 +4377,21 @@
       "id": 146,
       "itemID": 28962,
       "description": "Obtain the Quetzin"
+    },
+    {
+      "id": 150,
+      "itemID": 30753,
+      "description": "Get 1 unique from Yama"
+    },
+    {
+      "id": 151,
+      "itemID": 30753,
+      "description": "Get 1 unique from Yama"
+    },
+    {
+      "id": 152,
+      "itemID": 30753,
+      "description": "Get 1 unique from Yama"
     }
   ]
 }
