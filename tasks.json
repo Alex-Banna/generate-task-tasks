@@ -1646,6 +1646,21 @@
       "id": 181,
       "itemID": 30634,
       "description": "Get 1 unique from Royal Titans"
+    },
+    {
+      "id": 184,
+      "itemID": 30895,
+      "description": "Get a Steel ring"
+    },
+    {
+      "id": 185,
+      "itemID": 30088,
+      "description": "Get a Huasca seed"
+    },
+    {
+      "id": 186,
+      "itemID": 30044,
+      "description": "Get a Wyrm/Brimhaven graceful recolor"
     }
   ],
   "hard": [
@@ -2455,11 +2470,6 @@
       "description": "Get a Wyrm/Brimhaven graceful recolor"
     },
     {
-      "id": 201,
-      "itemID": 30044,
-      "description": "Get a Wyrm/Brimhaven graceful recolor"
-    },
-    {
       "id": 161,
       "itemID": 21541,
       "description": "Get a Volcanic mine teleport"
@@ -2556,6 +2566,11 @@
     },
     {
       "id": 180,
+      "itemID": 27279,
+      "description": "Get 1 unique from Tombs of Amascut"
+    },
+    {
+      "id": 209,
       "itemID": 27279,
       "description": "Get 1 unique from Tombs of Amascut"
     },
@@ -2671,11 +2686,6 @@
     },
     {
       "id": 205,
-      "itemID": 30070,
-      "description": "Get 1 unique from the Hueycoatl"
-    },
-    {
-      "id": 206,
       "itemID": 30070,
       "description": "Get 1 unique from the Hueycoatl"
     },
